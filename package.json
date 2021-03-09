@@ -1,0 +1,17 @@
+{
+  "name": "vue-shovel",
+  "version": "1.0.0",
+  "description": "The explanation of source code of vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "vue",
+    "source code"
+  ],
+  "author": "Jigang Li",
+  "license": "ISC"
+}
